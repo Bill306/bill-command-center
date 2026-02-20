@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects"
+  },
+  "home": {
+    "welcome": "> SYSTEM_ONLINE",
+    "identity": "IDENTITY",
+    "name_label": "Name:",
+    "role_label": "Role:",
+    "domain_label": "Domain:",
+    "status_label": "Status:",
+    "fields": "STAT: FIELDS",
+    "view_github": "Access GitHub Repo"
+  },
+  "about": {
+    "title": "ABOUT_MODULE",
+    "bio_title": "BIO",
+    "skills_title": "SKILL_MATRIX",
+    "interests_title": "INTEREST_VECTORS",
+    "read_more": "Read more"
+  },
+  "projects": {
+    "title": "PROJECTS_MODULE",
+    "status": "> status: UNDER_CONSTRUCTION",
+    "message": "Great things are being built...",
+    "eta": "> ETA: COMING_SOON",
+    "cta": "Access GitHub Repo"
+  },
+  "footer": {
+    "status": "All Systems Operational",
+    "built_with": "Built with React + Tailwind"
+  },
+  "theme": {
+    "toggle": "Toggle theme"
+  },
+  "lang": {
+    "toggle": "EN/中"
+  }
+}

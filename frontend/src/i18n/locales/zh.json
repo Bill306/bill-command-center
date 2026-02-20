@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于",
+    "projects": "项目"
+  },
+  "home": {
+    "welcome": "> 系统已上线",
+    "identity": "身份信息",
+    "name_label": "姓名：",
+    "role_label": "角色：",
+    "domain_label": "领域：",
+    "status_label": "状态：",
+    "fields": "数据：领域",
+    "view_github": "访问 GitHub 仓库"
+  },
+  "about": {
+    "title": "关于模块",
+    "bio_title": "个人简介",
+    "skills_title": "技能矩阵",
+    "interests_title": "兴趣向量",
+    "read_more": "了解更多"
+  },
+  "projects": {
+    "title": "项目模块",
+    "status": "> 状态：建设中",
+    "message": "伟大的作品正在构建...",
+    "eta": "> 预计上线：即将到来",
+    "cta": "访问 GitHub 仓库"
+  },
+  "footer": {
+    "status": "所有系统运行正常",
+    "built_with": "使用 React + Tailwind 构建"
+  },
+  "theme": {
+    "toggle": "切换主题"
+  },
+  "lang": {
+    "toggle": "EN/中"
+  }
+}
