@@ -1,16 +1,16 @@
 export const personalInfo = {
   name: "Bill",
   tagline: {
-    en: "AI Native | Web3 Explorer",
-    zh: "AI 原住民 | Web3 探索者",
+    en: "An AI-native person, driven by curiosity.",
+    zh: "AI-native，保持好奇，喜欢动手创造。",
   },
   bio: {
-    en: "I live at the intersection of artificial intelligence and decentralized systems. When I'm not training models or exploring on-chain data, you'll find me reading about historical patterns in economics. I believe the next wave of innovation will emerge from the convergence of AI and Web3.",
-    zh: "我生活在人工智能与去中心化系统的交汇点。当我不在训练模型或探索链上数据时，你会发现我在研究经济学中的历史规律。我相信下一波创新浪潮将诞生于 AI 与 Web3 的融合之中。",
+    en: "I follow questions that make me curious, turn some of them into things people can use, and share what I learn along the way. I like meeting people who enjoy making products and finding out what happens when an idea meets everyday life.",
+    zh: "遇到有意思的问题，我喜欢追问下去，把其中一些想法做成可以使用的产品，也分享过程中的发现。欢迎认识同样喜欢创造产品、愿意一起探索的人。",
   },
   status: {
     en: "Open to opportunities",
     zh: "开放机会中",
   },
-  github: "https://github.com/billdeng",
+  github: "https://github.com/Bill306",
 };
