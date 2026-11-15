@@ -8,6 +8,12 @@ A personal website with a small mission-control daydream.
 
 A React/Vite site that presents a home panel, an about page, and a project area in a command-center visual language. The implementation includes English/Chinese navigation, theme controls, responsive navigation, and data-driven personal content.
 
+## Questions that became things
+
+The project page presents three product cases: learning with Anki, following a research process with Forensics, and sharing travel expenses with TripSplit. Each case explains the question, the product choices, and the verification boundary. Anki and Forensics include real local application previews; TripSplit opens a product walkthrough.
+
+Filter by learning, research, or everyday life. Four collections connect related repositories: everyday life, research and sensemaking, learning and making, and conversations and career. English and Chinese cover the same cases and links. Edit these entries in `frontend/src/data/projectsData.js`.
+
 ## Run locally
 
 ```bash

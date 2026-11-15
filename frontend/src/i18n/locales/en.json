@@ -23,10 +23,22 @@
   },
   "projects": {
     "title": "PROJECTS_MODULE",
-    "status": "> status: UNDER_CONSTRUCTION",
-    "message": "Great things are being built...",
-    "eta": "> ETA: COMING_SOON",
-    "cta": "Access GitHub Repo"
+    "heading": "Questions that became things.",
+    "intro": "A few things I've made, the choices behind them, and what has actually been checked. Pick the question that makes you curious.",
+    "filter": "Filter product cases",
+    "categories": { "all": "All cases", "learning": "Learning", "research": "Research", "everyday": "Everyday life" },
+    "count_one": "{{count}} product case",
+    "count_other": "{{count}} product cases",
+    "source": "Explore the project",
+    "guide": "Setup & verification",
+    "preview": "Real local application preview",
+    "journey": "TripSplit user journey",
+    "tripSteps": { "invite": "Invite a friend into the same trip", "expense": "Record expenses and check each share", "settle": "Confirm payment, then confirm receipt" },
+    "decisions": "Product decisions",
+    "evidence": "What has been checked",
+    "collections": "Follow a curiosity",
+    "collectionIntro": "Related projects live together here. Each repository keeps its own setup and verification notes.",
+    "collectionGuide": "Read the collection guide"
   },
   "footer": {
     "status": "All Systems Operational",

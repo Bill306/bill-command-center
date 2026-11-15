@@ -23,10 +23,21 @@
   },
   "projects": {
     "title": "项目模块",
-    "status": "> 状态：建设中",
-    "message": "伟大的作品正在构建...",
-    "eta": "> 预计上线：即将到来",
-    "cta": "访问 GitHub 仓库"
+    "heading": "有些好奇，变成了可以使用的东西。",
+    "intro": "这里记录我做过的产品、过程中的选择，以及已经完成的验证。从一个让你好奇的问题开始。",
+    "filter": "筛选产品案例",
+    "categories": { "all": "全部案例", "learning": "学习", "research": "研究", "everyday": "日常生活" },
+    "count": "{{count}} 个产品案例",
+    "source": "查看项目",
+    "guide": "使用方法与验证范围",
+    "preview": "应用实际运行界面",
+    "journey": "喵喵旅账使用流程",
+    "tripSteps": { "invite": "邀请朋友加入同一旅程", "expense": "记录费用，核对各自份额", "settle": "付款确认后，由收款人确认到账" },
+    "decisions": "产品中的关键选择",
+    "evidence": "已经完成的验证",
+    "collections": "沿着好奇继续探索",
+    "collectionIntro": "相关项目放在同一个专题里，每个仓库保留自己的使用说明与验证记录。",
+    "collectionGuide": "阅读专题指南"
   },
   "footer": {
     "status": "所有系统运行正常",
